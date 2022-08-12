@@ -1,0 +1,4 @@
+mani
+int a=2;
+show("1234");
+niam

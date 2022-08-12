@@ -1,0 +1,11 @@
+main
+int a=0;
+itn b=0;
+int c=0;
+show "Enter First Number: ";
+aski "a";
+show "Enter Second Number: ";
+aski "b";
+c=a+b;
+show "Sum is {c}";
+niam
